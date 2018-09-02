@@ -1,0 +1,11 @@
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\bin\Debug\netcoreapp2.0\Okta-api-validate-manually.deps.json
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\bin\Debug\netcoreapp2.0\Okta-api-validate-manually.runtimeconfig.json
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\bin\Debug\netcoreapp2.0\Okta-api-validate-manually.runtimeconfig.dev.json
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\bin\Debug\netcoreapp2.0\Okta-api-validate-manually.dll
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\bin\Debug\netcoreapp2.0\Okta-api-validate-manually.pdb
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\obj\Debug\netcoreapp2.0\Okta-api-validate-manually.csprojResolveAssemblyReference.cache
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\obj\Debug\netcoreapp2.0\Okta-api-validate-manually.csproj.CoreCompileInputs.cache
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\obj\Debug\netcoreapp2.0\Okta-api-validate-manually.AssemblyInfoInputs.cache
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\obj\Debug\netcoreapp2.0\Okta-api-validate-manually.AssemblyInfo.cs
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\obj\Debug\netcoreapp2.0\Okta-api-validate-manually.dll
+D:\AspNetCore_VisualStudio2017\Okta-api-validate-manually\Okta-api-validate-manually\obj\Debug\netcoreapp2.0\Okta-api-validate-manually.pdb
