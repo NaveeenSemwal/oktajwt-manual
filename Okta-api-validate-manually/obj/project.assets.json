@@ -12540,9 +12540,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "D:\\AspNetCore_VisualStudio2017\\Okta-api-validate-manually\\Okta-api-validate-manually\\Okta-api-validate-manually.csproj",
       "projectName": "Okta-api-validate-manually",
@@ -12562,7 +12559,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://gallery.uipath.com/api/v2": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

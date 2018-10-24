@@ -117,5 +117,12 @@ namespace Okta_api_validate_manually.Controllers
         public void Delete(int id)
         {
         }
+
+        // GET api/Naveen/5
+        [HttpGet("{id}")]
+        public string Naveen(int id)
+        {
+            return "Naveen";
+        }
     }
 }
