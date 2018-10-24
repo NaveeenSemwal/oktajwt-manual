@@ -12701,11 +12701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AspNetCore_VisualStudio2017\\Okta-api-validate-manually\\Okta-api-validate-manually\\Okta-api-validate-manually.csproj",
+      "projectUniqueName": "D:\\AspNetCore_VisualStudio2017\\dev\\oktajwt-manual\\Okta-api-validate-manually\\Okta-api-validate-manually.csproj",
       "projectName": "Okta-api-validate-manually",
-      "projectPath": "D:\\AspNetCore_VisualStudio2017\\Okta-api-validate-manually\\Okta-api-validate-manually\\Okta-api-validate-manually.csproj",
+      "projectPath": "D:\\AspNetCore_VisualStudio2017\\dev\\oktajwt-manual\\Okta-api-validate-manually\\Okta-api-validate-manually.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\AspNetCore_VisualStudio2017\\Okta-api-validate-manually\\Okta-api-validate-manually\\obj\\",
+      "outputPath": "D:\\AspNetCore_VisualStudio2017\\dev\\oktajwt-manual\\Okta-api-validate-manually\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
